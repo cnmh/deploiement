@@ -15,7 +15,7 @@ assignees: ''
 - démarrage : titre-issue  #numéro-issue
 - validation  : titre-issue close #numéro-issue
 
-##  Critère de validation
+##  Critères de validation
 
 Le validateur doit vérifier les éléments suivants 
 
