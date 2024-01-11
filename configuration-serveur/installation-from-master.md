@@ -8,5 +8,5 @@
   - démarrage : titre-issue #4
   - validation  : titre-issue close #4
 - validateur
-  - essarraj fouad
+  - essarraj  fouad
 
